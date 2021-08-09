@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.os.Handler;
 
 public class SplashActivity extends AppCompatActivity {
+    // 8 Agustus 20201 - 10118369 - Josep Victor Rajaodli - IF 9
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
