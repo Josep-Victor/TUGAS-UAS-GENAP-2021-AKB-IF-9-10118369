@@ -62,7 +62,6 @@ public class WisataFragment1 extends Fragment {
             @Override
             protected void onBindViewHolder(Wisata1ViewHolder holder, int position, Wisata1 model) {
                 holder.bindToWisata1(model);
-
             }
 
             @NonNull
