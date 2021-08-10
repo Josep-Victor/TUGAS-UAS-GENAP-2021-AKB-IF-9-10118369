@@ -11,9 +11,9 @@
         android:title="Kabupaten Bandung"/>
 
     <item
-        android:id="@+id/info"
-        android:icon="@drawable/ic_baseline_info_24"
-        android:title="Info"/>
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profile"/>
 
     <item
         android:id="@+id/kabupaten_bandung_barat"

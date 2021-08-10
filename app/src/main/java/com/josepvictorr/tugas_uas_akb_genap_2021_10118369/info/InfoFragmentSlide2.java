@@ -1,4 +1,4 @@
-package com.josepvictorr.tugas_uas_akb_genap_2021_10118369.ui.info;
+package com.josepvictorr.tugas_uas_akb_genap_2021_10118369.info;
 
 import android.os.Bundle;
 

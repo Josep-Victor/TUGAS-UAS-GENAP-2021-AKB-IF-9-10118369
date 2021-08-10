@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg_fragment_2"
-    tools:context=".ui.info.InfoFragmentSlide2">
+    tools:context=".info.InfoFragmentSlide2">
 
     <TextView
         android:id="@+id/tvPageOfSlide2"
@@ -118,4 +118,15 @@
             android:layout_alignRight="@id/ivKabBandung"
             android:text="Kota \nCimahi"/>
     </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="60dp"
+        android:layout_marginRight="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:text="Swipe >>"/>
 </RelativeLayout>

@@ -1,15 +1,12 @@
 package com.josepvictorr.tugas_uas_akb_genap_2021_10118369;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 
 import android.os.Bundle;
-import android.view.MenuItem;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.google.android.material.navigation.NavigationBarView;
-import com.josepvictorr.tugas_uas_akb_genap_2021_10118369.ui.info.InfoFragment;
+import com.josepvictorr.tugas_uas_akb_genap_2021_10118369.info.InfoFragment;
 
 public class MainActivity extends AppCompatActivity {
     // 8 Agustus 20201 - 10118369 - Josep Victor Rajaodli - IF 9

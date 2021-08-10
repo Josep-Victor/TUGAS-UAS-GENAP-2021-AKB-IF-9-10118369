@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TUGASUASAKBGENAP202110118369">
-        <activity android:name=".ui.wisata.WisataActivity"></activity>
+        <activity android:name=".detail.DetailActivityWisata1"></activity>
+        <activity android:name=".home.HomeActivity" />
         <activity android:name=".MainActivity" />
         <activity android:name=".SplashActivity">
             <intent-filter>

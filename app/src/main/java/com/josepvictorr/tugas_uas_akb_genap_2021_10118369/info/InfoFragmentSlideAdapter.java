@@ -1,10 +1,9 @@
-package com.josepvictorr.tugas_uas_akb_genap_2021_10118369.ui.info;
+package com.josepvictorr.tugas_uas_akb_genap_2021_10118369.info;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentStatePagerAdapter;
-import androidx.viewpager2.adapter.FragmentStateAdapter;
 
 import java.util.List;
 

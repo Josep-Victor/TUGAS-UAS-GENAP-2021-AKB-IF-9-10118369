@@ -1,9 +1,7 @@
-package com.josepvictorr.tugas_uas_akb_genap_2021_10118369.ui.info;
+package com.josepvictorr.tugas_uas_akb_genap_2021_10118369.info;
 
 import android.os.Bundle;
 
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.viewpager.widget.PagerAdapter;
 import androidx.viewpager.widget.ViewPager;

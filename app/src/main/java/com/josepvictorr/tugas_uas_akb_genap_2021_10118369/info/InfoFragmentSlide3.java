@@ -1,4 +1,4 @@
-package com.josepvictorr.tugas_uas_akb_genap_2021_10118369.ui.info;
+package com.josepvictorr.tugas_uas_akb_genap_2021_10118369.info;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 
 import com.josepvictorr.tugas_uas_akb_genap_2021_10118369.R;
-import com.josepvictorr.tugas_uas_akb_genap_2021_10118369.ui.wisata.WisataActivity;
+import com.josepvictorr.tugas_uas_akb_genap_2021_10118369.home.HomeActivity;
 
 
 public class InfoFragmentSlide3 extends Fragment {
@@ -26,7 +26,7 @@ public class InfoFragmentSlide3 extends Fragment {
 
         btnGetStarted = rootView.findViewById(R.id.btnGetStarted);
         btnGetStarted.setOnClickListener(view -> {
-            startActivity(new Intent(getActivity(), WisataActivity.class));
+            startActivity(new Intent(getActivity(), HomeActivity.class));
 
         });
         return rootView;

@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg_fragment_3"
-    tools:context=".ui.info.InfoFragmentSlide3">
+    tools:context=".info.InfoFragmentSlide3">
 
     <TextView
         android:id="@+id/tvPageOfSlide3"
@@ -14,7 +14,7 @@
         android:layout_centerHorizontal="true"
         android:layout_alignParentTop="true"
         android:textColor="@color/white"
-        android:text="Page 2 of 3"/>
+        android:text="Page 3 of 3"/>
 
     <TextView
         android:id="@+id/tvDescSlide3"
